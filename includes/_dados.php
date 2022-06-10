@@ -20,15 +20,15 @@ $produtos = array(
     17 => array('id'=>'#7613','collection'=>'CryptoPunk','price'=>'','image'=>'7613-cryptoPunk.png'),
     18 => array('id'=>'#7614','collection'=>'CryptoPunk','price'=>'','image'=>'7614-cryptoPunk.png'),
     19 => array('id'=>'#7617','collection'=>'CryptoPunk','price'=>'','image'=>'7617-cryptoPunk.png'),
-    20 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    21 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    22 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    23 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    24 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    25 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    26 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    27 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    28 => array('id'=>'','collection'=>'','price'=>'','image'=>''),
-    29 => array('id'=>'','collection'=>'','price'=>'','image'=>'')
+    20 => array('id'=>'#1023','collection'=>'Azuki','price'=>'','image'=>'1023-azuki.png'),
+    21 => array('id'=>'#2599','collection'=>'Azuki','price'=>'','image'=>'2599-azuki.png'),
+    22 => array('id'=>'#2905','collection'=>'Azuki','price'=>'','image'=>'2905-azuki.png'),
+    23 => array('id'=>'#4385','collection'=>'Azuki','price'=>'','image'=>'4385-azuki.png'),
+    24 => array('id'=>'#4614','collection'=>'Azuki','price'=>'','image'=>'4614-azuki.png'),
+    25 => array('id'=>'#5083','collection'=>'Azuki','price'=>'','image'=>'5083-azuki.png'),
+    26 => array('id'=>'#5214','collection'=>'Azuki','price'=>'','image'=>'5214-azuki.png'),
+    27 => array('id'=>'#9024','collection'=>'Azuki','price'=>'','image'=>'9024-azuki.png'),
+    28 => array('id'=>'#9201','collection'=>'Azuki','price'=>'','image'=>'9201-azuki.png'),
+    29 => array('id'=>'#9445','collection'=>'Azuki','price'=>'','image'=>'9445-azuki.png')
 );
 ?>
