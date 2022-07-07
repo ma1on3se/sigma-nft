@@ -21,14 +21,14 @@ $produtos = array(
     18 => array('code'=>'#7614','collection'=>'CryptoPunk','price'=>'1 ETH','image'=>'7614-cryptoPunk.png'),
     19 => array('code'=>'#7617','collection'=>'CryptoPunk','price'=>'1 ETH','image'=>'7617-cryptoPunk.png'),
     20 => array('code'=>'#1023','collection'=>'Azuki','price'=>'1 ETH','image'=>'1023-azuki.png'),
-    21 => array('code'=>'#2599','collection'=>'Azuki','price'=>'','image'=>'2599-azuki.png'),
-    22 => array('code'=>'#2905','collection'=>'Azuki','price'=>'','image'=>'2905-azuki.png'),
-    23 => array('code'=>'#4385','collection'=>'Azuki','price'=>'','image'=>'4385-azuki.png'),
-    24 => array('code'=>'#4614','collection'=>'Azuki','price'=>'','image'=>'4614-azuki.png'),
-    25 => array('code'=>'#5083','collection'=>'Azuki','price'=>'','image'=>'5083-azuki.png'),
-    26 => array('code'=>'#5214','collection'=>'Azuki','price'=>'','image'=>'5214-azuki.png'),
-    27 => array('code'=>'#9024','collection'=>'Azuki','price'=>'','image'=>'9024-azuki.png'),
-    28 => array('code'=>'#9201','collection'=>'Azuki','price'=>'','image'=>'9201-azuki.png'),
-    29 => array('code'=>'#9445','collection'=>'Azuki','price'=>'','image'=>'9445-azuki.png')
+    21 => array('code'=>'#2599','collection'=>'Azuki','price'=>'1 ETH','image'=>'2599-azuki.png'),
+    22 => array('code'=>'#2905','collection'=>'Azuki','price'=>'1 ETH','image'=>'2905-azuki.png'),
+    23 => array('code'=>'#4385','collection'=>'Azuki','price'=>'1 ETH','image'=>'4385-azuki.png'),
+    24 => array('code'=>'#4614','collection'=>'Azuki','price'=>'1 ETH','image'=>'4614-azuki.png'),
+    25 => array('code'=>'#5083','collection'=>'Azuki','price'=>'1 ETH','image'=>'5083-azuki.png'),
+    26 => array('code'=>'#5214','collection'=>'Azuki','price'=>'1 ETH','image'=>'5214-azuki.png'),
+    27 => array('code'=>'#9024','collection'=>'Azuki','price'=>'1 ETH','image'=>'9024-azuki.png'),
+    28 => array('code'=>'#9201','collection'=>'Azuki','price'=>'1 ETH','image'=>'9201-azuki.png'),
+    29 => array('code'=>'#9445','collection'=>'Azuki','price'=>'1 ETH','image'=>'9445-azuki.png')
 );
 ?>
