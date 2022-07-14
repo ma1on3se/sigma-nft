@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Tempo de geração: 07-Jul-2022 às 16:40
+-- Tempo de geração: 14-Jul-2022 às 17:19
 -- Versão do servidor: 10.4.17-MariaDB
 -- versão do PHP: 7.3.27
 
@@ -65,6 +65,47 @@ CREATE TABLE `products` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
+-- Extraindo dados da tabela `products`
+--
+
+INSERT INTO `products` (`ProductsID`, `Code`, `CollectionID`, `Price`, `Image`, `Active`) VALUES
+(1, 122, 1, 1, '122-boredApe.png', 1),
+(2, 955, 1, 1, '955-boredApe.png', 1),
+(3, 2087, 1, 1, '2087-boredApe.png', 1),
+(4, 3368, 1, 1, '3368-boredApe.png', 1),
+(5, 3650, 1, 1, '3650-boredApe.png', 1),
+(6, 4303, 1, 1, '4303-boredApe.png', 1),
+(7, 4671, 1, 1, '4671-boredApe.png', 1),
+(8, 8470, 1, 1, '8470-boredApe.png', 1),
+(9, 8520, 1, 1, '8520-boredApe.png', 1),
+(10, 9996, 1, 1, '9996-boredApe.png', 1),
+(11, 104, 2, 2, '104-cryptoPunk.png', 1),
+(12, 110, 2, 2, '110-cryptoPunk.png', 1),
+(13, 7594, 2, 2, '7594-cryptoPunk.png', 1),
+(14, 7600, 2, 2, '7600-cryptoPunk.png', 1),
+(15, 7604, 2, 2, '7604-cryptoPunk.png', 1),
+(16, 7607, 2, 2, '7607-cryptoPunk.png', 1),
+(17, 7612, 2, 2, '7612-cryptoPunk.png', 1),
+(18, 7613, 2, 2, '7613-cryptoPunk.png', 1),
+(19, 7614, 2, 2, '7614-cryptoPunk.png', 1),
+(20, 7617, 2, 2, '7617-cryptoPunk.png', 1),
+(21, 1023, 3, 1, '1023-azuki.png', 1),
+(22, 2599, 3, 1, '2599-azuki.png', 1),
+(23, 2905, 3, 1, '2905-azuki.png', 1),
+(24, 4385, 3, 1, '4385-azuki.png', 1),
+(25, 4614, 3, 1, '4614-azuki.png', 1),
+(26, 5083, 3, 1, '5083-azuki.png', 1),
+(27, 5214, 3, 1, '5214-azuki.png', 1),
+(28, 9024, 3, 1, '9024-azuki.png', 1),
+(29, 9201, 3, 1, '9201-azuki.png', 1),
+(30, 9445, 3, 1, '9445-azuki.png', 1),
+(33, 5083, 3, 1, '5083-azuki.png', 1),
+(34, 5214, 3, 1, '5214-azuki.png', 1),
+(36, 9024, 3, 1, '9024-azuki.png', 1),
+(37, 9201, 3, 1, '9201-azuki.png', 1),
+(38, 9445, 3, 1, '9445-azuki.png', 1);
+
+--
 -- Índices para tabelas despejadas
 --
 
@@ -94,7 +135,7 @@ ALTER TABLE `collection`
 -- AUTO_INCREMENT de tabela `products`
 --
 ALTER TABLE `products`
-  MODIFY `ProductsID` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `ProductsID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=39;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

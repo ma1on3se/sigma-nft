@@ -1,6 +1,6 @@
 <?php
 // Include dos Dados e Header
-include_once './includes/_dados.php';
+include_once './includes/_banco.php';
 include_once './includes/_head.php';
 include_once './includes/_header.php';
 // Pegar os dados pela URL

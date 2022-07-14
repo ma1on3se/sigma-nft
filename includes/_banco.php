@@ -5,14 +5,14 @@ $database = "sitesigma";
 $username = "root";
 $password = "";
 
-// Create connection
+// Criando conexão 
 $conn = mysqli_connect($servername, $username, $password, $database);
 
-// Check connection
+// Checando conexão 
 if (!$conn) {
     die("Connection failed: " . mysqli_connect_error());
 }
-echo "Connected successfully";
-mysqli_close($conn);
+
+// 
 
 ?>
