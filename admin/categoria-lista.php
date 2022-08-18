@@ -9,6 +9,7 @@ include_once './_menu.php';
 // Consulta os dados
 $sql = "SELECT * FROM collection";
 // Conta quantos registros existem
+$resultado = mysqli_query($conexao,$sql);
 $total = mysqli_num_rows($resultado);
 
 ?>
